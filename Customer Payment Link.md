@@ -54,6 +54,7 @@ This guide provides a step-by-step walkthrough of the customer workflow for comp
 2. Confirm that all information is correct.
 3. Click the confirmation button to complete the payment registration.
 4. Receive confirmation of successful registration and any follow-up instructions.
+5. For the complete customer onboarding process including service agreements and ID verification, see [Customer Onboarding Walkthrough](./Customer.md).
 
 ---
 

@@ -172,8 +172,7 @@ This guide provides a step-by-step walkthrough of the agent workflow for registe
 1. Enter the customer's contact information for link delivery.
 2. Send the payment link via email or SMS.
 3. Monitor the status for when the customer completes the payment registration.
-4. Observe real-time updates as the customer interacts with the payment link, with data being updated instantly based on their activities.
-
+4. Observe real-time updates as the customer interacts with the payment link, with data being updated instantly based on their activities.5. For detailed customer instructions on using the payment link, refer to the [Customer Payment Link Walkthrough](./Customer%20Payment%20Link.md).
 ---
 
 ## Option 2: Agent Registers Credit Card
@@ -207,6 +206,7 @@ This guide provides a step-by-step walkthrough of the agent workflow for registe
 1. Replace dummy data with actual customer credit card information.
 2. Double-check all entered details for accuracy.
 3. Submit the credit card registration.
+4. For the customer self-service version of credit card registration, see [Customer Onboarding Walkthrough](./Customer.md).
 
 ### Step 6.1: List Listings After Registration
 ![List Listings](./Agent/6.1%20Credit%20Card%20registration%20-%20List%20Listings.png)
